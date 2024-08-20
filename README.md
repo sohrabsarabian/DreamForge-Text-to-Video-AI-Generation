@@ -1,6 +1,6 @@
 # DreamForge-Text-to-Video-AI-Generation
 
-![DreamForge Demo](Movie.mp4)
+![DreamForge Demo](Movie.gif)
 
 ## 🌟 Overview
 
