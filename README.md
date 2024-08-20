@@ -18,7 +18,7 @@ DreamForge is a cutting-edge AI-powered tool that transforms text prompts into c
 
 1. Clone the DreamForge repository:
    ```
-   git clone https://github.com/yourusername/DreamForge.git
+   git clone https://github.com/sohrabsarabian/DreamForge-Text-to-Video-AI-Generation.git
    cd DreamForge
    ```
 
@@ -97,7 +97,7 @@ Contributions to DreamForge are welcome! Please feel free to submit a Pull Reque
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## 🙏 Acknowledgements
 
